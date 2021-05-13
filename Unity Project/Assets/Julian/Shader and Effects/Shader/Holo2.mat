@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Holo2
+  m_Shader: {fileID: -6465566751694194690, guid: ba4b832ff08e13c4ebdbccbcb7e11fef,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 2
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_B1C2870E:
+        m_Texture: {fileID: 2800000, guid: baf62f577ec462442a975cec4703a195, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_54D01DD0: -0.3
+    - Vector1_F47BAEC6: 2
+    m_Colors:
+    - Color_5299D8E9: {r: 3.4352932, g: 0.17985828, b: 0, a: 0}
+    - Color_A77E39D8: {r: 0, g: 0.9370476, b: 0.65249914, a: 0}
+    - Vector2_1D22EC28: {r: 0.5, g: 0.05, b: 0, a: 0}

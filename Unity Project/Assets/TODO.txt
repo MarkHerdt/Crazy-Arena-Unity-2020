@@ -1,0 +1,17 @@
+-Menü
+//Menü komplett mit Controller steuerbar
+//Characterauswahl mit Stick
+Punktezähler über jedem UltiBalken
+
+-Barrikaden
+Barrikaden besser sichtbar machen
+
+-Ulti
+Ein Spieler im Team kann Ulti benutzen
+
+-Steuerung
+//Button über Player welche Taste man drücken muss
+
+-Map
+Säulen über Gängen wegmachen (Wege besser sichtbar machen)
+

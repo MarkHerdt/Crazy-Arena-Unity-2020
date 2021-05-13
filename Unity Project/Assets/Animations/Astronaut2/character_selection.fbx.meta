@@ -1,0 +1,198 @@
+fileFormatVersion: 2
+guid: e9e8ab914fd87c749bc728ef97c028a5
+ModelImporter:
+  serializedVersion: 19300
+  internalIDToNameTable:
+  - first:
+      74: 1827226128182048838
+    second: Take 001
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: belt
+<<<<<<< HEAD
+    second: {fileID: 2100000, guid: 73beb9573c122164d86a3e16f082bbbe, type: 2}
+=======
+    second: {fileID: 2100000, guid: 0668742f200b24b4abf5985ce6166646, type: 2}
+>>>>>>> 8eb2675d1a46af33165cddcbe4ff6e972fcf81e8
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: detail
+<<<<<<< HEAD
+    second: {fileID: 2100000, guid: 1609ab4240d8d774fb8e9d95d0cc9e62, type: 2}
+=======
+    second: {fileID: 2100000, guid: 8642041aabce6be4db51859bc8bb1014, type: 2}
+>>>>>>> 8eb2675d1a46af33165cddcbe4ff6e972fcf81e8
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: eye1
+<<<<<<< HEAD
+    second: {fileID: 2100000, guid: 78a794be07c056f4896fe659eaed5e6a, type: 2}
+=======
+    second: {fileID: 2100000, guid: cbc04d4de7baa0c4384ba0b7dad46b3d, type: 2}
+>>>>>>> 8eb2675d1a46af33165cddcbe4ff6e972fcf81e8
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: eye2
+<<<<<<< HEAD
+    second: {fileID: 2100000, guid: c6679804d82aff0469a8291ec098632f, type: 2}
+=======
+    second: {fileID: 2100000, guid: a2cb12ab995184245aaaf7f501fa4371, type: 2}
+>>>>>>> 8eb2675d1a46af33165cddcbe4ff6e972fcf81e8
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: eye3
+<<<<<<< HEAD
+    second: {fileID: 2100000, guid: 5c2fc2c8f5b8dab4f8cbab71812e247c, type: 2}
+=======
+    second: {fileID: 2100000, guid: 14f5ebee480868147a8a6903704722a7, type: 2}
+>>>>>>> 8eb2675d1a46af33165cddcbe4ff6e972fcf81e8
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hair
+<<<<<<< HEAD
+    second: {fileID: 2100000, guid: 38f189f4c12085146a8891da4ca16c17, type: 2}
+=======
+    second: {fileID: 2100000, guid: 83c46a1194db9224fbe7a641499b2159, type: 2}
+>>>>>>> 8eb2675d1a46af33165cddcbe4ff6e972fcf81e8
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: highlight
+<<<<<<< HEAD
+    second: {fileID: 2100000, guid: afa7472b14872344090f2912c8dfc6c1, type: 2}
+=======
+    second: {fileID: 2100000, guid: 26f2cf1f8e9ce7f48aee0255d455b09a, type: 2}
+>>>>>>> 8eb2675d1a46af33165cddcbe4ff6e972fcf81e8
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lashes
+<<<<<<< HEAD
+    second: {fileID: 2100000, guid: 928f39e3f3dc50e48a4ea9786d15cae3, type: 2}
+=======
+    second: {fileID: 2100000, guid: 88d580ebebfdbfd4fab9bd7058778e78, type: 2}
+>>>>>>> 8eb2675d1a46af33165cddcbe4ff6e972fcf81e8
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skin
+<<<<<<< HEAD
+    second: {fileID: 2100000, guid: 2171f205d40a6ce4eb6ae3507a5521df, type: 2}
+=======
+    second: {fileID: 2100000, guid: ef7534f886d2e874388abe8bfd3cd598, type: 2}
+>>>>>>> 8eb2675d1a46af33165cddcbe4ff6e972fcf81e8
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: star
+<<<<<<< HEAD
+    second: {fileID: 2100000, guid: b50f67510e1983e43829ddcaa4a53b69, type: 2}
+=======
+    second: {fileID: 2100000, guid: 82bd559efb99f7b4e9f05560721d760a, type: 2}
+>>>>>>> 8eb2675d1a46af33165cddcbe4ff6e972fcf81e8
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: suit
+<<<<<<< HEAD
+    second: {fileID: 2100000, guid: c6fe009ff53b84b42b676e3de7ef1262, type: 2}
+=======
+    second: {fileID: 2100000, guid: 20307c310b1361f4aa7cb0d4fb3235b0, type: 2}
+>>>>>>> 8eb2675d1a46af33165cddcbe4ff6e972fcf81e8
+  materials:
+    materialImportMode: 1
+    materialName: 3
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 1
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

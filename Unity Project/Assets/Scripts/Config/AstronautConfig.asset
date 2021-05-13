@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4ea5acf07758734a947649796dc90d4, type: 3}
+  m_Name: AstronautConfig
+  m_EditorClassIdentifier: 
+  movementSpeed: 250
+  smoothRotationTime: 0.0375
+  ultimateEffect: {fileID: 1545806602296978, guid: 187a0c4185ad0ab459f24a345fe3ffeb,
+    type: 3}
+  attackEffect: {fileID: 100000, guid: f433e02beff70b3419f2b502bae50883, type: 3}
+  attackTest: 0
+  attackRange: 37.5
+  attackAngle: 90
+  attackCooldown: 0.1825
+  stopWhileAttacking: 1
+  delay: 0.05
+  barricadeCooldown: 0.5
+  barricadeDuration: 10
+  walkThroughBarricades: 0
+  resetBarricades: 1

@@ -1,0 +1,11 @@
+-Player joined (Characterauswahl, wenn ein Spieler sich verbindet)
+-Button press (Characterauswahl, wenn man durch die verschiedenen Character switched)
+-Character selected (Characterauswahl, wenn man einen Character auswählt)
+-Character deselected (Characterauswahl, wenn man seinen Character deselected)
+-Countdown (Wenn jeder einen Character ausgewählt hat, für den Timer der runterzählt)
+-Spawn (Für den Player wenn er auf der Map spawned)
+-Astronaut Attack
+-Barricade activation
+-Alien Shoot
+-Alien Bullet Explosion
+-Destroyable Object hit (Wenn man ein Object mit einem angriff trifft)

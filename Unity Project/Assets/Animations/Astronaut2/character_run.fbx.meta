@@ -1,0 +1,207 @@
+fileFormatVersion: 2
+guid: 5d1121a87c86b07479371f4f3abfdff5
+ModelImporter:
+  serializedVersion: 19300
+  internalIDToNameTable:
+  - first:
+      74: 1827226128182048838
+    second: Take 001
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: belt
+<<<<<<< HEAD
+    second: {fileID: 2100000, guid: 2d92e952f589b394ea443b83100c9140, type: 2}
+=======
+    second: {fileID: 2100000, guid: b1e24a51b638de34783a868f370138a9, type: 2}
+>>>>>>> 8eb2675d1a46af33165cddcbe4ff6e972fcf81e8
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: detail
+<<<<<<< HEAD
+    second: {fileID: 2100000, guid: 8be82be6660e29d45b93f035f8776947, type: 2}
+=======
+    second: {fileID: 2100000, guid: c94107a7c1804904cbad20401dfa8371, type: 2}
+>>>>>>> 8eb2675d1a46af33165cddcbe4ff6e972fcf81e8
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: eye1
+<<<<<<< HEAD
+    second: {fileID: 2100000, guid: b54c0174e21024b45b2ae796a8038c2f, type: 2}
+=======
+    second: {fileID: 2100000, guid: 8c2202fc55fe2fc49aab6cc9712c9c1f, type: 2}
+>>>>>>> 8eb2675d1a46af33165cddcbe4ff6e972fcf81e8
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: eye2
+<<<<<<< HEAD
+    second: {fileID: 2100000, guid: 97b38e282cd41784e884dfe946dabefb, type: 2}
+=======
+    second: {fileID: 2100000, guid: 6bb817b6e8289f440af99b4701ac1c38, type: 2}
+>>>>>>> 8eb2675d1a46af33165cddcbe4ff6e972fcf81e8
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: eye3
+<<<<<<< HEAD
+    second: {fileID: 2100000, guid: fe72ba1827480184cae81c8e82f72dc7, type: 2}
+=======
+    second: {fileID: 2100000, guid: 0bd7f72c4c2626541974b583f6678ac0, type: 2}
+>>>>>>> 8eb2675d1a46af33165cddcbe4ff6e972fcf81e8
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hair
+<<<<<<< HEAD
+    second: {fileID: 2100000, guid: 9866011a5d366f8449293d6118a96a61, type: 2}
+=======
+    second: {fileID: 2100000, guid: 3dc565f89f9264449839a1111d93a35b, type: 2}
+>>>>>>> 8eb2675d1a46af33165cddcbe4ff6e972fcf81e8
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: highlight
+<<<<<<< HEAD
+    second: {fileID: 2100000, guid: 1462b6e3bd0c80a46b5dc1984e759682, type: 2}
+=======
+    second: {fileID: 2100000, guid: 48287eca2f7903d4a987d610f13079cd, type: 2}
+>>>>>>> 8eb2675d1a46af33165cddcbe4ff6e972fcf81e8
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lashes
+<<<<<<< HEAD
+    second: {fileID: 2100000, guid: fdc4c91760728ad40879f49f00f619c3, type: 2}
+=======
+    second: {fileID: 2100000, guid: b5f4453feef99ad4b97ecfdc3aed07ef, type: 2}
+>>>>>>> 8eb2675d1a46af33165cddcbe4ff6e972fcf81e8
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: shorts
+<<<<<<< HEAD
+    second: {fileID: 2100000, guid: bdf79de3236c96b49a535b8c8803664f, type: 2}
+=======
+    second: {fileID: 2100000, guid: 0680e7912867ed2449f41fc449cb79b2, type: 2}
+>>>>>>> 8eb2675d1a46af33165cddcbe4ff6e972fcf81e8
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skin
+<<<<<<< HEAD
+    second: {fileID: 2100000, guid: ddf56de725d2c3842867eb917957f2de, type: 2}
+=======
+    second: {fileID: 2100000, guid: 8ab3ceed85d0ddb4eb7ebac85cd12e60, type: 2}
+>>>>>>> 8eb2675d1a46af33165cddcbe4ff6e972fcf81e8
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: star
+<<<<<<< HEAD
+    second: {fileID: 2100000, guid: 35b6127ad2c91d9499d11c05c91a3204, type: 2}
+=======
+    second: {fileID: 2100000, guid: ad6bd92d6b0aef946b5cf6d151fbf572, type: 2}
+>>>>>>> 8eb2675d1a46af33165cddcbe4ff6e972fcf81e8
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: suit
+<<<<<<< HEAD
+    second: {fileID: 2100000, guid: 831f9b0950605594c89026591c26747f, type: 2}
+=======
+    second: {fileID: 2100000, guid: 03f03c8ef421804438fc274ad8cec3d5, type: 2}
+>>>>>>> 8eb2675d1a46af33165cddcbe4ff6e972fcf81e8
+  materials:
+    materialImportMode: 1
+    materialName: 3
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 1
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

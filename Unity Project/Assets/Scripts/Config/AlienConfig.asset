@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33cd2df34eb9d414fa855d91ca70babe, type: 3}
+  m_Name: AlienConfig
+  m_EditorClassIdentifier: 
+  movementSpeed: 275
+  smoothRotationTime: 0.0375
+  ultimateEffect: {fileID: 1545806602296978, guid: 187a0c4185ad0ab459f24a345fe3ffeb,
+    type: 3}
+  alienBulletPrefab: {fileID: 2176881904198396508, guid: 40b3e7887fb1b3a42989653840ef93a7,
+    type: 3}
+  attackTest: 0
+  bulletSpeed: 50000
+  bulletGravity: -187500
+  bulletCooldown: 0.365
+  explosionRadius: 37.5
+  stopWhileAttacking: 1
+  delay: 0.05
+  xRotation: 100
+  yRotation: 100
+  zRotation: 100
+  teleportEffect: {fileID: 1965343156803978, guid: 5d4a8f496be78a44faac37b74ceea850,
+    type: 3}
+  teleportCooldown: 10
+  lookDirection: 0
+  blink: 0
+  fixedPoint: 0
+  teleportPosition: {x: 425, y: 22.5, z: 25}
+  redSphere: {fileID: 7677584031472877466, guid: 4288c5bd9ec1da548a6276a47ebe6c1b,
+    type: 3}
+  greenSphere: {fileID: 7677584031472877466, guid: 816296893d3653944aecbfc2708b5d87,
+    type: 3}
+  blueSphere: {fileID: 7677584031472877466, guid: 006de28eb3781e048acc6df70db65be3,
+    type: 3}
